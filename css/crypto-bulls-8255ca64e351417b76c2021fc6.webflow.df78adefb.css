@@ -11026,3 +11026,8 @@ figcaption {
     padding-bottom:110px;
   }
 }
+
+#faq{
+  padding-top:0px;
+  margin-top:-10px;
+}
